@@ -11,7 +11,7 @@ int main(){
 scanf("%s",UserNationality);
 
 if (strcmp(UserNationality,"Pakistani")==0) {
-    printf("Your Are Eligible\n");  
+    printf("Your Are Eligible For Voting\n");  
 }
 else
 printf("You Are Not Eligible For Voting");
@@ -24,3 +24,4 @@ return 0;
 
 
 }
+
